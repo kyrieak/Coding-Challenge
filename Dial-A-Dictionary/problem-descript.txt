@@ -1,0 +1,10 @@
+PROGRAMMING CHALLENGE: DIAL-A-DICTIONARY
+Categories: Challenges
+
+A company is choosing the phone number they want to display on their obnoxious infomercial, and they want to use a phone number which spells out a word in order for it to be easier to remember. They are worried, however, that the numbers they choose could also spell out other words they didn't intend. This company wants you to write a program that, given a sequence of digits, prints out all the possible English words that that sequence could encode. The program should use the following correspondence between numbers and letters, taken from Wikipedia:
+
+0 = Not used 1 = Not used 2 = ABC 3 = DEF 4 = GHI 5 = JKL 6 = MNO 7 = PQRS 8 = TUV 9 = WXYZ
+
+There is a simple English word list here, but feel free to use any dictionary you'd like to solve the problem.
+
+Try and be as efficient as possible! The problem is easy to brute force, but more interesting if you use data structure and algorithms to solve the problem as quickly as you can.
